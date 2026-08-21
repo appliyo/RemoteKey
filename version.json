@@ -1,5 +1,5 @@
 {
-  "version": "0.5.6",
-  "url": "https://github.com/ahmet190527/RemoteKey/releases/download/v0.5.0/RemoteKey_v0.5.0.exe",
-  "notes": "RemoteKey v0.5.0 - İsim değişikliği ve otomatik güncelleme altyapısı."
+  "version": "0.6.0",
+  "url": "https://github.com/appliyo/RemoteKey/releases/download/v0.6.0/RemoteKey_v0.6.0.exe",
+  "notes": "PCRemote v0.6.0 stability & S-Pen Optimization"
 }
