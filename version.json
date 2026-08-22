@@ -1,5 +1,9 @@
 {
-  "version": "0.6.0",
-  "url": "https://github.com/appliyo/RemoteKey/releases/download/v0.6.0/RemoteKey_v0.6.0.exe",
-  "notes": "PCRemote v0.6.0 stability & S-Pen Optimization"
+  "version": "0.7.0",
+  "notes": "Yeni özellikler eklendi.",
+  "downloads": {
+    "standalone": "https://.../RemoteKey_standalone.zip",
+    "onefile": "https://.../RemoteKey_onefile.exe",
+    "setup": "https://.../RemoteKey_installer.exe"
+  }
 }
