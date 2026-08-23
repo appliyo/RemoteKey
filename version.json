@@ -1,9 +1,9 @@
 {
-  "version": "0.7.0",
+  "version": "0.6.0",
   "notes": "Yeni özellikler eklendi.",
   "downloads": {
     "standalone": "https://.../RemoteKey_standalone.zip",
-    "onefile": "https://.../RemoteKey_onefile.exe",
+    "onefile": "https://github.com/appliyo/RemoteKey/releases/download/v0.6.0/RemoteKey_v0.6.0.exe",
     "setup": "https://.../RemoteKey_installer.exe"
   }
 }
