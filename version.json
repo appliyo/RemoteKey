@@ -1,9 +1,10 @@
 {
-  "version": "0.6.0",
-  "notes": "Yeni özellikler eklendi.",
+  "version": "0.7.0",
+  "notes": "RemoteKey v0.7.0 — Dusuk gecikmeli ses akisi, cift yonlu dosya transferi, kararlilik ve Android v0.7.0 uyumluluk guncellemeleri.",
   "downloads": {
-    "standalone": "https://.../RemoteKey_standalone.zip",
-    "onefile": "https://github.com/appliyo/RemoteKey/releases/download/v0.6.0/RemoteKey.exe",
-    "setup": "https://.../RemoteKey_installer.exe"
-  }
+    "standalone": "https://github.com/appliyo/RemoteKey/releases/download/v0.7.0/RemoteKey_standalone.zip",
+    "onefile": "https://github.com/appliyo/RemoteKey/releases/download/v0.7.0/RemoteKey.exe",
+    "setup": "https://github.com/appliyo/RemoteKey/releases/download/v0.7.0/RemoteKey_installer.exe"
+  },
+  "url": "https://github.com/appliyo/RemoteKey/releases/download/v0.7.0/RemoteKey.exe"
 }
